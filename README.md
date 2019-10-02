@@ -14,7 +14,7 @@ Run `nodemon` for a dev server. Navigate to `http://localhost:3000/`. The app wi
 
 ## End points
 
-# to register the user
+### to register the user
 type: GET, 
 http://localhost:3000/users/signup
 
